@@ -1,0 +1,7 @@
+Generate a small system with several functions that call each other.
+
+Create a singleton with the following data:
+- run_id
+- event_name, event_start, event_end, elapsed_time
+
+Collect timings from the sample functions we generated above.
