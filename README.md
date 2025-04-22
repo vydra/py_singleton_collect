@@ -8,3 +8,7 @@ We need to collect timings from different parts of our codebase.
 Approach:
 
 Use the singleton pattern to collect data from any part of the codebase.
+
+Run:
+
+python3 timing_system.py
